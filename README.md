@@ -8,7 +8,7 @@ Bom, meu nome é Gustavo Ramos, tenho atualmente 16 anos e estou começando a es
 
 Linguagem | Nível
 --------- | ------
-HTML | Intermediário
+HTML | Básico
 CSS | Básico
 JavaScript | Iniciante
 Python | Iniciante
