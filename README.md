@@ -2,16 +2,18 @@
 
 ## Quem sou eu?
 
-Bom, meu nome é Gustavo Ramos, tenho atualmente 16 anos e estou começando a estudar programação! Estou apenas começando, então estou criando essa conta para poder colocar meus projetos e aprendizados aqui e acompanhar meu desenvolvimento!
+Bom, meu nome é Gustavo Ramos, tenho atualmente 17 anos e estou começando a estudar programação! Estou apenas começando, então estou criando essa conta para poder colocar meus projetos e aprendizados aqui e acompanhar meu desenvolvimento!
 
 ## O que estou aprendendo atualmente?
 
 Linguagem | Nível
 --------- | ------
-HTML | Básico
+HTML | Intermediário
 CSS | Básico
-JavaScript | Iniciante
-Python | Iniciante
+JavaScript | Intermediário
+PHP | Iniciante
+SQL | Iniciante
+Java | Iniciante
 
 ## Meus Stats do GitHub
 
@@ -23,7 +25,8 @@ Python | Iniciante
   <img align="center" alt="dbrghost_HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="dbrghost_CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="dbrghost_JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="dbrghost_Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="dbrghost_PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="dbrghost_Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 ## Minhas redes sociais!
